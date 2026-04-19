@@ -128,22 +128,5 @@ https://target.com/admin   →   https://1.2.3.4/admin (Host: target.com)
 5. CVSS: Broken access control is Top 1 on OWASP — typically 7.5-9.8
 ```
 
----
-
-## GitHub Info
-
-**Description:**
-```
-403/401 bypass automation — path manipulation, header injection, verb tampering, protocol tricks
-```
-
-**Topics:**
-```
-403-bypass, access-control-bypass, broken-access-control,
-bug-bounty, penetration-testing, python, web-security, appsec, owasp
-```
-
----
-
 ## License
 MIT — For authorized testing only.
